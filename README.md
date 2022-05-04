@@ -49,7 +49,6 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
   
 
 
-
 <!--
 **gsaldutti/gsaldutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
