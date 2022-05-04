@@ -4,6 +4,9 @@ I'm Gregg Saldutti<br/><a href="https://https://github.com/gsaldutti">
   
 Sr. Business Analyst and FinTech Professional: 
 <a href="https://www.linkedin.com/in/greggsaldutti-1701501//">
+  
+  <h2>👨‍💻 Software Development Projects:</h2>
+
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
     
