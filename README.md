@@ -20,6 +20,7 @@ Sr. Business Analyst and FinTech Professional:
   - [Machine Learning-Algo Trading](https://github.com/gsaldutti/Algorithmic_Trading)
   - [Blockchain](https://github.com/gsaldutti/PyChain-Ledger)
   - [Python/Financial Analysis](https://github.com/gsaldutti/Unit2_Python)
+  - [Blochchain Wallet](https://github.com/gsaldutti/Blockchain-Wallets)
   
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
