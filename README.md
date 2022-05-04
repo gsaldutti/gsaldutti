@@ -21,6 +21,7 @@ Sr. Business Analyst and FinTech Professional:
   - [Blockchain](https://github.com/gsaldutti/PyChain-Ledger)
   - [Python/Financial Analysis](https://github.com/gsaldutti/Unit2_Python)
   - [Blochchain Wallet](https://github.com/gsaldutti/Blockchain-Wallets)
+  - [Solidity](https://github.com/gsaldutti/Joint-Savings-Account)
   
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
