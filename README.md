@@ -15,7 +15,7 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
   
   
   - [Business Case Study](https://github.com/gsaldutti/NICE-ACTIMIZE)
-  - [Unit2 Python](https://github.com/gsaldutti/PyBank-and-PyRamen)
+  - [Python/Financial Analysis](https://github.com/gsaldutti/PyBank-and-PyRamen)
   - [Pandas](https://github.com/gsaldutti/Whale-Portfolio)
   - [APIs](https://github.com/gsaldutti/Financial-Planner)
   - [PyViz](https://github.com/gsaldutti/Pythonic-Monopoly)
@@ -27,8 +27,7 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
   - [Deep Learning](https://github.com/gsaldutti/Fintech-Deep-Learning)
   - [Machine Learning-Algo Trading](https://github.com/gsaldutti/Algorithmic_Trading)
   - [Blockchain](https://github.com/gsaldutti/PyChain-Ledger)
-  - [Python/Financial Analysis](https://github.com/gsaldutti/Unit2_Python)
-  - [Blockchain Wallet](https://github.com/gsaldutti/Blockchain-Wallets)
+    - [Blockchain Wallet](https://github.com/gsaldutti/Blockchain-Wallets)
   - [Solidity](https://github.com/gsaldutti/Joint-Savings-Account)
   - [Advanced Solidity](https://github.com/gsaldutti/Martian-Token-Crowdsale)
 
