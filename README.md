@@ -2,7 +2,7 @@
 
 I'm Gregg Saldutti<br/><a href="https://https://github.com/gsaldutti">
   
- Sr. Business Analyst and Capital Markets Professional
+ Senior Business Analyst with 20+ years of experience in the financial services industry. Combine strong business and technical acumen to help firms raise efficiency, reduce costs, and harness new applications. 
   
 
   
