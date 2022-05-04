@@ -14,7 +14,7 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
   <h2>👨‍💻 Software Development Projects:</h2>
   
   
-  - [Case Study](https://github.com/gsaldutti/NICE-ACTIMIZE)
+  - [Business Case Study](https://github.com/gsaldutti/NICE-ACTIMIZE)
   - [Pandas](https://github.com/gsaldutti/Whale-Portfolio)
   - [APIs](https://github.com/gsaldutti/Financial-Planner)
   - [PyViz](https://github.com/gsaldutti/Pythonic-Monopoly)
