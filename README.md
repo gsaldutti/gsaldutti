@@ -2,7 +2,7 @@
 
 I'm Gregg Saldutti<br/><a href="https://https://github.com/gsaldutti">
   
- Sr. Business Analyst and Capital Markets professional
+ Sr. Business Analyst and Capital Markets Professional
   
 
   
