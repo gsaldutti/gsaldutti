@@ -27,7 +27,7 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
   - [Deep Learning](https://github.com/gsaldutti/Fintech-Deep-Learning)
   - [Machine Learning-Algo Trading](https://github.com/gsaldutti/Algorithmic_Trading)
   - [Blockchain](https://github.com/gsaldutti/PyChain-Ledger)
-    - [Blockchain Wallet](https://github.com/gsaldutti/Blockchain-Wallets)
+  - [Blockchain Wallet](https://github.com/gsaldutti/Blockchain-Wallets)
   - [Solidity](https://github.com/gsaldutti/Joint-Savings-Account)
   - [Advanced Solidity](https://github.com/gsaldutti/Martian-Token-Crowdsale)
 
