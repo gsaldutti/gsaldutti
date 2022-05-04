@@ -33,7 +33,7 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
 
  <h2>👨‍💻 Team Software Development Projects:</h2>
  
- - [Hollywood movies who and what drives the business](https://github.com/gsaldutti/Project1)
+ - [Hollywood movies](https://github.com/gsaldutti/Project1)
  - [Red and White wine analysis](https://github.com/gsaldutti/Project2)
   
 
