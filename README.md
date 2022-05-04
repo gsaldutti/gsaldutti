@@ -9,7 +9,7 @@ Prior experience as a proprietary trader in fixed income, foreign exchange, repo
 Rutgers University’s 24-week FinTech Bootcamp program focused on financial programming, machine learning applications, and blockchain and cryptocurrency. 
 (May 2022)
   
-  - [Rutgers FinTech Bootcamp](https://bootcamp.rutgers.edu/fintech/)
+  - [Rutgers FinTech Bootcamp curriculum ](https://bootcamp.rutgers.edu/fintech/)
   
   <h2>👨‍💻 Software Development Projects:</h2>
   
