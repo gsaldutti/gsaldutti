@@ -11,6 +11,7 @@ Sr. Business Analyst and FinTech Professional:
   - [Case Study](https://https://github.com/gsaldutti/NICE-ACTIMIZE)
   - [Pandas](https://github.com/gsaldutti/Whale-Portfolio)
   - [APIs](https://github.com/gsaldutti/Financial-Planner)
+  - [PyViz](https://github.com/gsaldutti/Pythonic-Monopoly)
   
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
