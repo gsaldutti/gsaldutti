@@ -14,6 +14,7 @@ Sr. Business Analyst and FinTech Professional:
   - [PyViz](https://github.com/gsaldutti/Pythonic-Monopoly)
   - [Time Series](https://github.com/gsaldutti/Forecasting-Net-Prophet)
   - [Machine Learning](https://github.com/gsaldutti/Risky_Business)
+  - [NLP](https://github.com/gsaldutti/Crypto_Sentiment)
   
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
