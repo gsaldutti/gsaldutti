@@ -15,6 +15,7 @@ Sr. Business Analyst and FinTech Professional:
   - [Time Series](https://github.com/gsaldutti/Forecasting-Net-Prophet)
   - [Machine Learning](https://github.com/gsaldutti/Risky_Business)
   - [NLP-Natural Language Processing](https://github.com/gsaldutti/Crypto_Sentiment)
+  - [AWS](https://github.com/gsaldutti/unit13-challenge)
   
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
