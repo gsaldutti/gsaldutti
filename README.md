@@ -7,7 +7,7 @@ I'm Gregg Saldutti
 Rutgers University’s 24-week FinTech Bootcamp program focused on financial programming, machine learning applications, and blockchain and cryptocurrency. 
 (May 2022)
   
-- [Rutgers FinTech Bootcamp](https://bootcamp.rutgers.edu/fintech/)
+  - [Rutgers FinTech Bootcamp](https://bootcamp.rutgers.edu/fintech/)
   
   <h2>👨‍💻 Software Development Projects:</h2>
   
