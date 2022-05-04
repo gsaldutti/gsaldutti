@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Gregg Saldutti<br/><a href="https://https://github.com/gsaldutti">
+I'm Gregg Saldutti
   
  Senior Business Analyst with 20+ years of experience in the financial services industry. Combine strong business and technical acumen to help firms raise efficiency, reduce costs, and harness new applications. 
   
