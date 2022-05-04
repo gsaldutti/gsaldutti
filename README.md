@@ -17,6 +17,7 @@ Sr. Business Analyst and FinTech Professional:
   - [NLP-Natural Language Processing](https://github.com/gsaldutti/Crypto_Sentiment)
   - [AWS](https://github.com/gsaldutti/unit13-challenge)
   - [Deep Learning](https://github.com/gsaldutti/Fintech-Deep-Learning)
+  - [Machine Learning-Algo Trading](https://github.com/gsaldutti/Algorithmic_Trading)
   
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
