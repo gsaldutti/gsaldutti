@@ -18,6 +18,7 @@ Sr. Business Analyst and FinTech Professional:
   - [AWS](https://github.com/gsaldutti/unit13-challenge)
   - [Deep Learning](https://github.com/gsaldutti/Fintech-Deep-Learning)
   - [Machine Learning-Algo Trading](https://github.com/gsaldutti/Algorithmic_Trading)
+  - [Blockchain](https://github.com/gsaldutti/PyChain-Ledger)
   
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
