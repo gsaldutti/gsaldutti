@@ -2,7 +2,7 @@
 
 I'm Gregg Saldutti<br/><a href="https://https://github.com/gsaldutti">
   
-Sr. Business Analyst and FinTech Professional<br/><a href="https://linkedin.com/in/greggsaldutti-1701501/">
+Sr. Business Analyst and FinTech Professional
   
 
   
