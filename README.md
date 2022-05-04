@@ -18,6 +18,7 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
   - [Pandas](https://github.com/gsaldutti/Whale-Portfolio)
   - [APIs](https://github.com/gsaldutti/Financial-Planner)
   - [PyViz](https://github.com/gsaldutti/Pythonic-Monopoly)
+  - [SQL](https://github.com/gsaldutti/Looking-for-Suspicious-Transactions)
   - [Time Series](https://github.com/gsaldutti/Forecasting-Net-Prophet)
   - [Machine Learning](https://github.com/gsaldutti/Risky_Business)
   - [NLP-Natural Language Processing](https://github.com/gsaldutti/Crypto_Sentiment)
