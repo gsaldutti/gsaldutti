@@ -34,7 +34,7 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
     
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:
   
 [<img align="left" alt="GreggSaldutti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   
