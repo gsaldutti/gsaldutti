@@ -3,6 +3,9 @@
 I'm Gregg Saldutti
   
  Senior Business Analyst with 20+ years of experience in the financial services industry. Combine strong business and technical acumen to help firms raise efficiency, reduce costs, and harness new applications. 
+ 
+Rutgers University’s 24-week FinTech Bootcamp program focused on financial programming, machine learning applications, and blockchain and cryptocurrency. 
+(May 2022)
   
 
   
