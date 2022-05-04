@@ -31,7 +31,7 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
   - [Solidity](https://github.com/gsaldutti/Joint-Savings-Account)
   - [Advanced Solidity](https://github.com/gsaldutti/Martian-Token-Crowdsale)
 
- <h2>👨‍💻👨‍💻👨‍💻👩‍💻  Team Software Development Projects:</h2>
+ <h2>👨‍💻👨‍💻👨‍💻👩🏿‍💻 Team Software Development Projects:</h2>
  
  - [Hollywood movies](https://github.com/gsaldutti/Project1)
  - [Red and White wine analysis](https://github.com/gsaldutti/Project2)
