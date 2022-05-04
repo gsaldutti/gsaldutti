@@ -7,7 +7,7 @@ Senior Business Analyst with 20+ years of experience in the financial services i
 Prior experience as a proprietary trader in fixed income, foreign exchange, repo, equity and debt syndicate underwriting and derivatives. Draw on strong front-office background to bridge the gap between trading desks and technology groups, ensuring technical solutions advance business goals. 
  
 Rutgers University’s 24-week FinTech Bootcamp program focused on financial programming, machine learning applications, and blockchain and cryptocurrency. 
-(May 2022)
+(Nov 2021 - May 2022)
   
   - [Rutgers FinTech Bootcamp curriculum ](https://bootcamp.rutgers.edu/fintech/)
   
