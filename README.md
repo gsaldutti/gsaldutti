@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Gregg! <br/><a href="https://https://github.com/gsaldutti">Sr. Business Analyst and FinTech Professional</a>,
-  
-  <a href="https://www.linkedin.com/in/greggsaldutti-1701501//">
+<h1>Hi, I'm Gregg! <br/><a href="https://https://github.com/gsaldutti">Sr. Business Analyst and FinTech Professional
+  </a>,<a href="https://www.linkedin.com/in/greggsaldutti-1701501//">
 
 
 
