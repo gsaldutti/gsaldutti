@@ -12,6 +12,7 @@ Sr. Business Analyst and FinTech Professional:
   - [Pandas](https://github.com/gsaldutti/Whale-Portfolio)
   - [APIs](https://github.com/gsaldutti/Financial-Planner)
   - [PyViz](https://github.com/gsaldutti/Pythonic-Monopoly)
+  - [Time Series](https://github.com/gsaldutti/Forecasting-Net-Prophet)
   
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
