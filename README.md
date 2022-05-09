@@ -2,7 +2,7 @@
 
 I'm Gregg Saldutti
   
-Senior Business Analyst with 20+ years of experience in the financial services industry. Combine strong business and technical acumen to help firms raise efficiency, reduce costs, and harness new applications. 
+Senior Business Analyst with 25+ years of experience in the financial services industry. Combine strong business and technical acumen to help firms raise efficiency, reduce costs, and harness new applications. 
  
 Prior experience as a proprietary trader in fixed income, foreign exchange, repo, equity and debt syndicate underwriting and derivatives. Draw on strong front-office background to bridge the gap between trading desks and technology groups, ensuring technical solutions advance business goals. 
  
