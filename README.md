@@ -35,6 +35,7 @@ Rutgers University’s 24-week FinTech Bootcamp program focused on financial pro
  
  - [Hollywood movies](https://github.com/gsaldutti/Project1)
  - [Red and White wine analysis](https://github.com/gsaldutti/Project2)
+ - [NTF project](https://github.com/atrgrad/final_project3)
   
 
 [linkedin]: https://linkedin.com/in/greggsaldutti-1701501/
